@@ -5,8 +5,6 @@
 
 import SwiftUI
 
-GitHub rule check
-
 struct AboutCommunitySource: View {
     var body: some View {
         ScrollView {
